@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<userList>
+    <user>
+        <ID>0</ID>
+        <name>Zero</name>
+        <username>0</username>
+        <password>0</password>
+    </user>
+    <user>
+        <ID>1</ID>
+        <name>One</name>
+        <username>1</username>
+        <password>1</password>
+    </user>
+    <user>
+        <ID>3</ID>
+        <name>Three</name>
+        <username>3</username>
+        <password>3</password>
+    </user>
+    <admin>
+        <ID>0</ID>
+        <name>AdminZero</name>
+        <username>A0</username>
+        <password>A0</password>
+    </admin>
+</userList>

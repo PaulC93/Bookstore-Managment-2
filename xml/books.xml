@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookList>
+    <book>
+        <ISBN>1234567891120</ISBN>
+        <title>Harry Potter</title>
+        <author>J.K. Rowling</author>
+        <genre>Fantasy</genre>
+        <quantity>100</quantity>
+        <price>29.99</price>
+    </book>
+    <book>
+        <ISBN>1234567891121</ISBN>
+        <title>Everyday Italian</title>
+        <author>Giada De Laurentiis</author>
+        <genre>Cooking</genre>
+        <quantity>10</quantity>
+        <price>30.99</price>
+    </book>
+    <book>
+        <ISBN>1234567891122</ISBN>
+        <title>XQuery Kick Start</title>
+        <author>James McGovern</author>
+        <author>Per Bothner</author>
+        <author>Kurt Cagle</author>
+        <author>James Linn</author>
+        <author>Vaidyanathan Nagarajan</author>
+        <genre>Web</genre>
+        <quantity>20</quantity>
+        <price>49.99</price>
+    </book>
+    <book>
+        <ISBN>1234567891123</ISBN>
+        <title>XQuery</title>
+        <author>James McGovern</author>
+        <author>Vaidyanathan Nagarajan</author>
+        <genre>Web</genre>
+        <quantity>0</quantity>
+        <price>40.99</price>
+    </book>
+    <book>
+        <ISBN>1234567891124</ISBN>
+        <title>Lala Book</title>
+        <author>Unknown</author>
+        <genre>Drama</genre>
+        <quantity>10</quantity>
+        <price>19.99</price>
+    </book>
+    <book>
+        <ISBN>1234567891125</ISBN>
+        <title>Empty Book</title>
+        <author>The One And Only</author>
+        <genre>SF</genre>
+        <quantity>0</quantity>
+        <price>123.33</price>
+    </book>
+</bookList>
